@@ -16,19 +16,9 @@ $ cat ~/.current_projects
   📊 Data pipelines and analytics tooling
 ```
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [changedetection-mcp-server](https://github.com/patrickcarmichael/changedetection-mcp-server) | MCP server for website change monitoring |
-| [2000-ai](https://github.com/patrickcarmichael/2000-ai) | AI project with TypeScript |
-| [docs](https://github.com/patrickcarmichael/docs) | Personal documentation hub |
-| [mcp-gateway](https://github.com/patrickcarmichael/mcp-gateway) | MCP gateway implementation |
-
----
 
 <p align="center">
-  <i>Always learning, always building</i>
+  <i>building, breaking, forgetting</i>
 </p>
 
 <!---
