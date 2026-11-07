@@ -18,7 +18,7 @@ Professional, technically credible, with personality. Patrick is a Senior TAM at
 
 ## Key Details
 
-- Location: Brooklyn, NYC
+- Location: New York (upstate)
 - Role: Senior Technical Account Manager
 - Interests: AI tooling, MCP servers, automation, data analytics
 - GitHub: @patrickcarmichael
