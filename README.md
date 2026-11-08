@@ -14,4 +14,4 @@
 └───────────────────────────────────────────────┘
 ```
 
-→ [LinkedIn](https://www.linkedin.com/in/carmichaelpatrick)
+→ [patrickcarmichael.github.io](https://patrickcarmichael.github.io) · [LinkedIn](https://www.linkedin.com/in/carmichaelpatrick)
